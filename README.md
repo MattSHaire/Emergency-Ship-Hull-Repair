@@ -10,15 +10,19 @@ These can be files can either be downloaded and executed on the Netlogo Desktop 
 Webots was used for the Search algorithm simulations. Six programs for use with Webots, and one video file are included:
 
 The programs needed for the Partial Population Failure (PPF) experiments in Approach 1 are:
-SHI_A1_PPF_10.wbt	
+
+SHI_A1_PPF_10.wbt
 SHIR_A1_SUP_PPF_10.c
 SHIR_A1_ROB_PPF.c
 
 The programs needed for the Partial Population Failure (PPF) experiments in Approach 2 are:
-SHI_A2_PPF_10.wbt	
-SHIR_A2_SUP_PPF_10.c	
+
+SHI_A2_PPF_10.wbt
+SHIR_A2_SUP_PPF_10.c
 SHIR_A2_CON.c
 
 These files can be downloaded and executed on the Webots Desktop App, which can be accessed here: https://www.cyberbotics.com/download/download
 
-The video file shows the robots carrying out an emergency ship hull inspection under ideal conditions: 
+The video file shows the robots carrying out an emergency ship hull inspection under ideal conditions:
+
+SHI_A1_CON.mp4
