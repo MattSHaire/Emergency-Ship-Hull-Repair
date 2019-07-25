@@ -11,15 +11,11 @@ Webots was used for the Search algorithm simulations. Six programs for use with 
 
 The programs needed for the Partial Population Failure (PPF) experiments in Approach 1 are:
 
-SHI_A1_PPF_10.wbt
-SHIR_A1_SUP_PPF_10.c
-SHIR_A1_ROB_PPF.c
+SHI_A1_PPF_10.wbt, SHIR_A1_SUP_PPF_10.c, and SHIR_A1_ROB_PPF.c
 
 The programs needed for the Partial Population Failure (PPF) experiments in Approach 2 are:
 
-SHI_A2_PPF_10.wbt
-SHIR_A2_SUP_PPF_10.c
-SHIR_A2_CON.c
+SHI_A2_PPF_10.wbt, SHIR_A2_SUP_PPF_10.c, and SHIR_A2_CON.c
 
 These files can be downloaded and executed on the Webots Desktop App, which can be accessed here: https://www.cyberbotics.com/download/download
 
