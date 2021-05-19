@@ -1,4 +1,4 @@
-# Emergency-Ship-Hull-Repair
+# Emergency Ship Hull Repair: Complete Area Coverage and Self-Assembly
 Codes and videos associated with the doctoral research project concerning Emergency Ship Hull Repair using a Swarm of Autonomous Underwater Robots.
 
 Netlogo was used for the Self-assembly algorithm simulations. Two files are included under the Self-Assembly folder:
